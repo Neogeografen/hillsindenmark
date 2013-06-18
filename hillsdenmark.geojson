@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>{
+{
 "type": "FeatureCollection",
- "copyright": "The geodata included in this document is from Danish Geodata Agency www.gst.dk - The geodata comes from SNSOR ",
                                                                                 
 "features": [
 { "type": "Feature", "id": 3, "properties": { "SNSOR_ID": 39082.0, "NAVN": "Blæsbanke" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 9.485510231624032, 55.993523670949266, 0.0 ], [ 9.48606510386252, 55.993027305972525, 0.0 ], [ 9.485215940197104, 55.993066590435021, 0.0 ], [ 9.485510231624032, 55.993523670949266, 0.0 ] ] ] } }
